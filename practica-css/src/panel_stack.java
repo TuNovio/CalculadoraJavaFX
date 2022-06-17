@@ -23,7 +23,7 @@ public class panel_stack extends Application{
          */
         panel.getChildren().addAll(title);
         /**
-         * configuracion del panel para interfaz
+         * configuracion para mostrar interfaz
          */
         Scene miScena = new Scene(panel);
         stage.setTitle("panelStack ejemplo");
